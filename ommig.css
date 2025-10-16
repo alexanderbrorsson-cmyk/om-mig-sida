@@ -1,0 +1,71 @@
+
+body {
+    background-image: url("https://mail.google.com/mail/u/0?ui=2&ik=c79eb8f10c&attid=0.1&permmsgid=msg-f:1845498913229641122&th=199c877bd46c15a2&view=att&zw&disp=safe");
+    background-position: center;
+    background-size: cover;
+}
+
+.main {
+ width: 60%;  
+ height: 140%;
+ background-color: dimgray;
+ left: 20%;
+ position: absolute;
+ border-radius: 5%;
+}   
+
+.rubrik {
+ width: 30%;
+ height: 10%;
+ left: 35%;
+ top: 5%;
+ background-color: gray;
+ position: absolute;
+ border-radius: 5%;
+ text-align: center;
+}
+
+.textruta1 {
+    width: 50%;
+    height: 110%;
+    background-color: gray;
+    position: absolute;
+    left: 25%;
+    top: 20%;
+    border-radius: 5%;
+    text-align: center;
+}
+
+.bilder {
+    position: absolute;
+    text-align: center;
+    width: 60%;
+}
+
+.bilder1 {
+    left: 20%;
+    top: 80%;
+}
+
+.bilder2 {
+    left: 20%;
+    top: 50%;
+}
+
+.mamma {
+    position: absolute;
+    top: 55%;
+    left: 29%;
+}
+
+.Agnes {
+    position: absolute;
+    top: 45%;
+    left: 47%;
+}
+
+.pappa {
+    position: absolute;
+    top: 70%;
+    right: 30%;
+}
