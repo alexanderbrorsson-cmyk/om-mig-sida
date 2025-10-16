@@ -69,3 +69,52 @@ body {
     top: 70%;
     right: 30%;
 }
+
+.frida {
+    position: absolute;
+    left: 26.5%;
+    top: 37%;
+}
+
+.fridab{
+     position: absolute;
+     left: 26%;
+     top: 30%;
+}
+
+.ödlor {
+    position: absolute;
+    left: 50%;
+    top: 45%;
+    width: 25%;
+}
+
+.ödlorb {
+    position: absolute;
+    left: 45%;
+    top: 83%;
+}
+
+.kiwi {
+    position: absolute;
+    left: 51%;
+    top: 83%;
+}
+
+.echo {
+    position: absolute;
+    left: 64.5%;
+    top: 83%;
+}
+
+.button {
+    position: absolute;
+    left: 71%;
+    top: 124%;
+}
+
+.buttonb {
+   position: absolute;
+   left: 25.5%;
+   top: 124%;
+}
